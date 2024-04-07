@@ -2,7 +2,7 @@
 
 Welcome to Chroot Scoot's Hackathon Team!
 
-![Chroot Scoot Logo](https://example.com/chroot_scoot_logo.png)
+![Chroot Scoot Logo](https://github.com/organizations/chroot-scoot/settings/profile)
 
 ## About Us
 
